@@ -62,3 +62,33 @@ Como funciona o SaaS
 O provedor de nuvem desenvolve e mantém software de aplicação em nuvem, fornece atualizações automáticas e disponibiliza software para seus clientes através da Internet. 
 Como escolher um SaaS
 É importante optar por um sistema com metodologia de implantação eficiente. 
+
+Modelo de Responsabilidade Compartilhada (Nuvem) - Vale para todos tipos de Nuvem (Azure, AWS, Google, etc)
+IaaS
+A Resposabilidade é sempre retida pelo Cliente
+- Informações e dados
+- Disposotivos (Móveis e PCs)
+- Contas e Identidades
+- Infraestrutura de identidade e diretório
+- Aplicativos, Controles de rede, Sistema Operacional
+
+PaaS
+A Resposabilidade é sempre retida pelo Cliente
+-Informações e dados
+-Disposotivos (Móveis e PCs)
+- Contas e Identidades
+
+- Infraestrutura de identidade e diretório, Aplicativos, Controles de rede, Sistema Operacional (Responsabilidade Compartilhada)
+
+
+SaaS
+A Resposabilidade é sempre retida pelo Cliente
+-Informações e dados
+-Disposotivos (Móveis e PCs)
+- Contas e Identidades
+
+- Infraestrutura de identidade e diretório (Responsabilidade Compartilhada)
+
+
+On Promisses (Não está na Nuvem) - Resposável por toda a Infra Compra, Manutenção, Instalação, Atualização, Etc
+
