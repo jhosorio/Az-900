@@ -65,6 +65,9 @@ Como escolher um SaaS
 
 Modelo de Responsabilidade Compartilhada (Nuvem) - Vale para todos tipos de Nuvem (Azure, AWS, Google, etc)
 IaaS
+. O Serviço de nuvem mais flexível.
+. Você configura e gerencia o hardware para seu aplicativo.
+
 A Resposabilidade é sempre retida pelo Cliente
 - Informações e dados
 - Disposotivos (Móveis e PCs)
@@ -73,6 +76,9 @@ A Resposabilidade é sempre retida pelo Cliente
 - Aplicativos, Controles de rede, Sistema Operacional
 
 PaaS
+. Focado em desenvolvimento de aplicativos
+. O gerenciamento de plataforma é realizado pelo provedor da nuvem
+
 A Resposabilidade é sempre retida pelo Cliente
 -Informações e dados
 -Disposotivos (Móveis e PCs)
@@ -82,6 +88,9 @@ A Resposabilidade é sempre retida pelo Cliente
 
 
 SaaS
+. Modelo de preço de pagamento conforme o uso.
+. Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
 A Resposabilidade é sempre retida pelo Cliente
 -Informações e dados
 -Disposotivos (Móveis e PCs)
