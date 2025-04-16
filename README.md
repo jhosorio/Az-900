@@ -269,6 +269,27 @@ Os **Arquivos do Azure** são uma solução de armazenamento em nuvem que oferec
 
 Os Arquivos do Azure são ideais para empresas que buscam simplificar o gerenciamento de dados e integrar soluções híbridas. Você pode explorar mais detalhes [aqui](https://azure.microsoft.com/pt-br/products/storage/files/) ou [aqui](https://learn.microsoft.com/pt-br/azure/storage/files/storage-files-introduction). Precisa de ajuda com algo específico? 🚀
 
+Os **pontos de extremidade públicos** do serviço de armazenamento da Azure permitem que os recursos de armazenamento sejam acessados por meio de endereços IP públicos, garantindo conectividade global. Aqui estão os principais aspectos:
+
+1. **Acesso Global**:
+   - Os pontos de extremidade públicos são acessíveis de qualquer lugar do mundo via HTTP ou HTTPS.
+   - Ideal para cenários onde o acesso remoto é necessário.
+
+2. **Segurança**:
+   - Embora sejam públicos, podem ser protegidos com configurações de firewall e regras de rede.
+   - É possível restringir o acesso a endereços IP específicos ou redes virtuais.
+
+3. **Tipos de Serviços**:
+   - Aplicável a diferentes serviços de armazenamento, como Blobs, Arquivos, Filas e Tabelas.
+
+4. **Alternativa: Pontos de Extremidade Privados**:
+   - Para maior segurança, o Azure também oferece pontos de extremidade privados, que utilizam endereços IP dentro de uma rede virtual.
+
+Você pode explorar mais detalhes sobre os pontos de extremidade públicos e como configurá-los [aqui](https://learn.microsoft.com/pt-br/azure/storage/files/storage-files-networking-endpoints) ou [aqui](https://learn.microsoft.com/pt-br/azure/virtual-network/virtual-network-service-endpoints-overview). Caso precise de ajuda com configurações específicas, é só avisar! 🚀
+
+![image](https://github.com/user-attachments/assets/e34a3141-6d06-4155-bc7d-f5eb6e1a8370)
+
+
 
 
 
