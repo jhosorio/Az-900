@@ -292,6 +292,31 @@ Você pode explorar mais detalhes sobre os pontos de extremidade públicos e com
 ![image](https://github.com/user-attachments/assets/bdedc9e8-1563-490f-8edd-193fe4efc117)
 ![image](https://github.com/user-attachments/assets/fa7be49b-e98d-40a0-a02b-8fe2b7d075ba)
 ![image](https://github.com/user-attachments/assets/ad4a24b6-e455-494d-8415-22f02407bf93)
+
+No Azure, as camadas de armazenamento (ou "tiers") são projetadas para otimizar custos e oferecer flexibilidade no acesso aos dados, dependendo de como e com que frequência os dados são utilizados. Aqui estão as principais camadas:
+
+### 1. **Hot Tier (Camada Quente)**
+   - Ideal para dados acessados com frequência.
+   - Oferece alta disponibilidade e menor latência de acesso.
+   - Custo de armazenamento é maior, mas as taxas de acesso são menores.
+
+### 2. **Cool Tier (Camada Fria)**
+   - Indicada para dados acessados com menos frequência, mas que ainda precisam de disponibilidade em curto prazo.
+   - Armazenamento é mais barato em comparação com a camada quente, mas as taxas de acesso são mais altas.
+   - Útil para backups ou arquivos que não são utilizados constantemente.
+
+### 3. **Archive Tier (Camada de Arquivo)**
+   - Projetada para dados raramente acessados ou que precisam ser armazenados por longos períodos.
+   - Oferece o menor custo de armazenamento entre as camadas.
+   - Os dados nesta camada precisam ser "re-hidratados" antes de serem acessados, o que pode levar algum tempo.
+   - É uma excelente opção para arquivamento de longo prazo.
+
+### Como Funciona a Escolha da Camada?
+- As camadas podem ser atribuídas a blobs individuais dentro de um contêiner do Azure Blob Storage.
+- Você pode mover os dados entre as camadas manualmente ou configurar políticas de ciclo de vida para fazer isso automaticamente, dependendo do uso dos dados.
+
+Essas camadas ajudam a gerenciar os custos e o desempenho com base nas necessidades específicas do seu projeto. Precisa de mais detalhes ou quer saber como configurá-las? É só dizer! 😄
+
 ![image](https://github.com/user-attachments/assets/fb3143d1-dc4a-4a8a-b901-1f2a497c3b4c)
 
 
