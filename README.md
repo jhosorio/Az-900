@@ -247,6 +247,28 @@ O **Azure Blob Storage** é uma solução de armazenamento de objetos altamente 
 
 O Azure Blob Storage é amplamente utilizado para criar aplicativos nativos de nuvem, data lakes e soluções de backup. Você pode explorar mais detalhes [aqui](https://azure.microsoft.com/pt-br/products/storage/blobs/) ou [aqui](https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blobs-introduction). Se precisar de ajuda com algo específico, é só avisar! 🚀
 
+Os **Arquivos do Azure** são uma solução de armazenamento em nuvem que oferece compartilhamentos de arquivos totalmente gerenciados, acessíveis por meio de protocolos padrão como SMB (Server Message Block) e NFS (Network File System). Aqui estão os principais aspectos:
+
+1. **Funcionalidade**:
+   - Permite criar compartilhamentos de arquivos que podem ser montados simultaneamente em sistemas locais ou na nuvem.
+   - Compatível com Windows, Linux e macOS.
+
+2. **Casos de Uso**:
+   - Substituir servidores de arquivos locais ou dispositivos NAS.
+   - Compartilhar dados entre contêineres e aplicativos distribuídos.
+   - Armazenar configurações de aplicativos em um local centralizado.
+
+3. **Recursos Avançados**:
+   - Sincronização de Arquivos do Azure: Cache local para acesso rápido.
+   - Integração com Active Directory para controle de acesso baseado em identidade.
+   - Suporte a camadas de armazenamento (quente, fria e arquivamento).
+
+4. **Segurança**:
+   - Criptografia em trânsito e em repouso.
+   - Conformidade com padrões de segurança e privacidade.
+
+Os Arquivos do Azure são ideais para empresas que buscam simplificar o gerenciamento de dados e integrar soluções híbridas. Você pode explorar mais detalhes [aqui](https://azure.microsoft.com/pt-br/products/storage/files/) ou [aqui](https://learn.microsoft.com/pt-br/azure/storage/files/storage-files-introduction). Precisa de ajuda com algo específico? 🚀
+
 
 
 
