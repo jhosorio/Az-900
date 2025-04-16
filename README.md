@@ -213,3 +213,7 @@ A **redundância de armazenamento no Azure** é uma estratégia para proteger da
 
 Essas opções permitem que você escolha o nível de redundância ideal com base nos requisitos de disponibilidade, custo e recuperação de desastres. Você pode explorar mais detalhes sobre isso [aqui](https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy). Se precisar de ajuda para configurar ou entender melhor, é só avisar! 🚀
 
+
+![image](https://github.com/user-attachments/assets/f63bc8a6-8611-421e-a58b-1a0ca1fa5c53)
+
+
