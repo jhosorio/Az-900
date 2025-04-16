@@ -292,6 +292,8 @@ Você pode explorar mais detalhes sobre os pontos de extremidade públicos e com
 ![image](https://github.com/user-attachments/assets/bdedc9e8-1563-490f-8edd-193fe4efc117)
 ![image](https://github.com/user-attachments/assets/fa7be49b-e98d-40a0-a02b-8fe2b7d075ba)
 ![image](https://github.com/user-attachments/assets/ad4a24b6-e455-494d-8415-22f02407bf93)
+![image](https://github.com/user-attachments/assets/fb3143d1-dc4a-4a8a-b901-1f2a497c3b4c)
+
 
 
 
