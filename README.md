@@ -199,6 +199,7 @@ A **redundância de armazenamento no Azure** é uma estratégia para proteger da
 1. **Armazenamento com Redundância Local (LRS)**:
    - Replica os dados três vezes dentro de um único data center na região primária.
    - É a opção mais econômica, mas não protege contra falhas de data center.
+   - Não indicado pra Produção
 
 2. **Armazenamento com Redundância de Zona (ZRS)**:
    - Replica os dados de forma síncrona em três zonas de disponibilidade dentro da mesma região.
