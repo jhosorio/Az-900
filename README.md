@@ -213,6 +213,9 @@ A **redundância de armazenamento no Azure** é uma estratégia para proteger da
 4. **Armazenamento com Redundância Geográfica com Acesso de Leitura (RA-GRS)**:
    - Similar ao GRS, mas permite acesso de leitura aos dados replicados na região secundária.
 
+
+![image](https://github.com/user-attachments/assets/f63bc8a6-8611-421e-a58b-1a0ca1fa5c53)
+
 Essas opções permitem que você escolha o nível de redundância ideal com base nos requisitos de disponibilidade, custo e recuperação de desastres. Você pode explorar mais detalhes sobre isso [aqui](https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy). Se precisar de ajuda para configurar ou entender melhor, é só avisar! 🚀
 
 O **Azure Blob Storage** é uma solução de armazenamento de objetos altamente escalável e segura, projetada para armazenar grandes volumes de dados não estruturados, como texto, imagens, vídeos e backups. Aqui estão os principais pontos sobre ele:
@@ -245,6 +248,5 @@ O **Azure Blob Storage** é uma solução de armazenamento de objetos altamente 
 O Azure Blob Storage é amplamente utilizado para criar aplicativos nativos de nuvem, data lakes e soluções de backup. Você pode explorar mais detalhes [aqui](https://azure.microsoft.com/pt-br/products/storage/blobs/) ou [aqui](https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blobs-introduction). Se precisar de ajuda com algo específico, é só avisar! 🚀
 
 
-![image](https://github.com/user-attachments/assets/f63bc8a6-8611-421e-a58b-1a0ca1fa5c53)
 
 
