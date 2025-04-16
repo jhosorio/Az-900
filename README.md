@@ -215,6 +215,35 @@ A **redundância de armazenamento no Azure** é uma estratégia para proteger da
 
 Essas opções permitem que você escolha o nível de redundância ideal com base nos requisitos de disponibilidade, custo e recuperação de desastres. Você pode explorar mais detalhes sobre isso [aqui](https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy). Se precisar de ajuda para configurar ou entender melhor, é só avisar! 🚀
 
+O **Azure Blob Storage** é uma solução de armazenamento de objetos altamente escalável e segura, projetada para armazenar grandes volumes de dados não estruturados, como texto, imagens, vídeos e backups. Aqui estão os principais pontos sobre ele:
+
+1. **Tipos de Blobs**:
+   - **Blobs de Bloco**: Ideais para armazenar arquivos grandes, como vídeos e imagens.
+   - **Blobs de Página**: Usados para armazenamento de dados que exigem acesso aleatório, como discos de máquinas virtuais.
+   - **Blobs de Acrescentar**: Projetados para operações de acréscimo, como logs.
+
+2. **Casos de Uso**:
+   - Armazenamento de arquivos para acesso distribuído.
+   - Streaming de áudio e vídeo.
+   - Backup e recuperação de desastres.
+   - Armazenamento de dados para análise em data lakes.
+
+3. **Acesso e Integração**:
+   - Os dados podem ser acessados via HTTP/HTTPS de qualquer lugar.
+   - Suporte a APIs REST, Azure CLI, PowerShell e bibliotecas de cliente para várias linguagens, como Python, .NET e Java.
+
+4. **Armazenamento em Camadas**:
+   - **Hot**: Para dados acessados frequentemente.
+   - **Cool**: Para dados acessados ocasionalmente.
+   - **Archive**: Para dados raramente acessados, com custo reduzido.
+
+5. **Segurança e Confiabilidade**:
+   - Criptografia em repouso e em trânsito.
+   - Controle de acesso baseado em funções (RBAC).
+   - Alta durabilidade e disponibilidade com opções de redundância (LRS, ZRS, GRS, RA-GRS).
+
+O Azure Blob Storage é amplamente utilizado para criar aplicativos nativos de nuvem, data lakes e soluções de backup. Você pode explorar mais detalhes [aqui](https://azure.microsoft.com/pt-br/products/storage/blobs/) ou [aqui](https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blobs-introduction). Se precisar de ajuda com algo específico, é só avisar! 🚀
+
 
 ![image](https://github.com/user-attachments/assets/f63bc8a6-8611-421e-a58b-1a0ca1fa5c53)
 
