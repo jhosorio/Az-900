@@ -102,3 +102,5 @@ A Resposabilidade é sempre retida pelo Cliente
 On Promisses (Não está na Nuvem) - Resposável por toda a Infra Compra, Manutenção, Instalação, Atualização, Etc
 
 Criação de Grupo de Recursos
+
+
