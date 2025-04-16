@@ -203,6 +203,7 @@ A **redundância de armazenamento no Azure** é uma estratégia para proteger da
 2. **Armazenamento com Redundância de Zona (ZRS)**:
    - Replica os dados de forma síncrona em três zonas de disponibilidade dentro da mesma região.
    - Oferece maior proteção contra falhas de data center.
+   - Assincrono
 
 3. **Armazenamento com Redundância Geográfica (GRS)**:
    - Replica os dados em uma região secundária geograficamente distante.
