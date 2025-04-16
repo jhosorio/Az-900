@@ -194,3 +194,22 @@ A criação de **Funções do Azure** (Azure Functions) permite executar código
 
 Você pode explorar mais detalhes sobre a criação de funções no [Microsoft Learn](https://learn.microsoft.com/pt-br/azure/azure-functions/functions-create-function-app-portal) ou [aqui](https://learn.microsoft.com/pt-br/azure/azure-functions/functions-get-started). Precisa de ajuda com algum aspecto específico? 🚀
 
+A **redundância de armazenamento no Azure** é uma estratégia para proteger dados contra falhas e garantir alta disponibilidade e durabilidade. O Azure oferece diferentes níveis de replicação para atender a diversas necessidades de custo e resiliência:
+
+1. **Armazenamento com Redundância Local (LRS)**:
+   - Replica os dados três vezes dentro de um único data center na região primária.
+   - É a opção mais econômica, mas não protege contra falhas de data center.
+
+2. **Armazenamento com Redundância de Zona (ZRS)**:
+   - Replica os dados de forma síncrona em três zonas de disponibilidade dentro da mesma região.
+   - Oferece maior proteção contra falhas de data center.
+
+3. **Armazenamento com Redundância Geográfica (GRS)**:
+   - Replica os dados em uma região secundária geograficamente distante.
+   - Protege contra desastres regionais, mas o acesso aos dados replicados é limitado.
+
+4. **Armazenamento com Redundância Geográfica com Acesso de Leitura (RA-GRS)**:
+   - Similar ao GRS, mas permite acesso de leitura aos dados replicados na região secundária.
+
+Essas opções permitem que você escolha o nível de redundância ideal com base nos requisitos de disponibilidade, custo e recuperação de desastres. Você pode explorar mais detalhes sobre isso [aqui](https://learn.microsoft.com/pt-br/azure/storage/common/storage-redundancy). Se precisar de ajuda para configurar ou entender melhor, é só avisar! 🚀
+
