@@ -371,7 +371,6 @@ Criar uma conta de armazenamento no Azure é um processo simples! Aqui está um 
 5. **Acesso à Conta de Armazenamento**:
    - Após a implantação ser concluída, vá para "Recursos" para acessar sua nova conta de armazenamento e começar a utilizá-la!
 
-Pronto! Agora você tem uma conta de armazenamento configurada e pronta para uso. Se precisar de ajuda para configurar os serviços ou entender as opções, é só avisar! 😊
 
 
 
