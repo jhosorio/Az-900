@@ -347,6 +347,32 @@ Essas camadas ajudam a gerenciar os custos e o desempenho com base nas necessida
 
 ![image](https://github.com/user-attachments/assets/fb3143d1-dc4a-4a8a-b901-1f2a497c3b4c)
 
+Criar uma conta de armazenamento no Azure é um processo simples! Aqui está um guia passo a passo para ajudá-lo:
+
+1. **Acesse o Portal do Azure**:
+   - Faça login no [Portal do Azure](https://portal.azure.com) com sua conta da Microsoft.
+
+2. **Selecione "Criar um Recurso"**:
+   - No menu lateral esquerdo, clique em "Criar um recurso".
+   - No painel, procure por "Conta de Armazenamento" e selecione a opção correspondente.
+
+3. **Configure a Conta de Armazenamento**:
+   - **Assinatura**: Escolha a assinatura do Azure que deseja usar.
+   - **Grupo de Recursos**: Crie um novo grupo ou escolha um existente para organizar seus recursos.
+   - **Nome da Conta**: Insira um nome único para sua conta de armazenamento (o nome deve ser em letras minúsculas, sem espaços ou caracteres especiais).
+   - **Localização**: Escolha a região onde os dados serão armazenados.
+   - **Tipo de Desempenho**: Escolha entre Standard (custo mais baixo, adequado para a maioria dos usos) ou Premium (desempenho mais alto para cargas de trabalho críticas).
+   - **Tipo de Redundância**: Escolha o nível de replicação de dados (LRS, GRS, ZRS, etc.).
+
+4. **Revisão e Criação**:
+   - Após preencher os detalhes, clique em "Revisar + Criar".
+   - Verifique as informações e clique em "Criar" para iniciar a implantação.
+
+5. **Acesso à Conta de Armazenamento**:
+   - Após a implantação ser concluída, vá para "Recursos" para acessar sua nova conta de armazenamento e começar a utilizá-la!
+
+Pronto! Agora você tem uma conta de armazenamento configurada e pronta para uso. Se precisar de ajuda para configurar os serviços ou entender as opções, é só avisar! 😊
+
 
 
 
