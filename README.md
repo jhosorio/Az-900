@@ -459,6 +459,14 @@ A Calculadora de TCO da Azure é projetada para ajudar empresas a entender os cu
 Se quiser explorar mais, você pode acessar a ferramenta diretamente [aqui](https://azure.microsoft.com/pt-br/pricing/tco/calculator/). 
 
 
+A Calculadora de Preços do Azure é uma ferramenta poderosa para estimar os custos de uso dos serviços do Azure. Com ela, você pode:
 
+1. **Personalizar Configurações**: Escolher serviços específicos do Azure, como máquinas virtuais, armazenamento e redes, e ajustar parâmetros como região, tipo de instância e duração do uso.
+
+2. **Criar Estimativas Detalhadas**: A ferramenta permite criar estimativas baseadas em cenários reais, ajudando no planejamento financeiro e na otimização de custos.
+
+3. **Explorar Opções de Economia**: Identificar oportunidades de economizar, como reservas provisionadas ou o Benefício Híbrido do Azure.
+
+Você pode acessar a Calculadora de Preços diretamente [aqui](https://azure.microsoft.com/pt-br/pricing/calculator/). 
 
 
