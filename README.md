@@ -448,6 +448,16 @@ Esses recursos garantem:
 
 O Azure torna o gerenciamento de identidade e segurança intuitivo e eficiente para empresas de todos os tamanhos.
 
+A Calculadora de TCO da Azure é projetada para ajudar empresas a entender os custos associados à migração para a nuvem. Aqui estão alguns detalhes sobre como ela funciona:
+
+1. **Áreas de Custo**: A ferramenta analisa custos como hardware de servidor, licenças de software, eletricidade e mão de obra. Ela compara esses gastos com os custos estimados no Azure.
+
+2. **Configuração Personalizada**: Você pode adicionar detalhes específicos da sua infraestrutura, como servidores, armazenamento e rede. Isso permite uma análise detalhada e personalizada.
+
+3. **Relatório Detalhado**: Após inserir os dados, a calculadora gera um relatório que mostra as economias potenciais ao migrar para o Azure. Você pode ajustar parâmetros como região e período de análise para obter resultados mais precisos.
+
+Se quiser explorar mais, você pode acessar a ferramenta diretamente [aqui](https://azure.microsoft.com/pt-br/pricing/tco/calculator/). 
+
 
 
 
