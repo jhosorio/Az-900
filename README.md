@@ -487,4 +487,12 @@ Microsoft Purview
 ![image](https://github.com/user-attachments/assets/cd52a16e-0a6b-4912-85bd-763bf990b3b3)
 
 
+Ferramentas de Implantação na Azure
+PowerShell
+CloudShell
+![image](https://github.com/user-attachments/assets/b2a0b914-d848-4450-b175-51364a51056d)
+
+ARM
+BICEP
+
 
