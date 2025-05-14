@@ -495,4 +495,12 @@ CloudShell
 ARM
 BICEP
 
+Ferramentas de Monitoramento do Azure
+Assistente do Azure
+Integridade do Serviço do Azure
+Azure Monitor
+
+![image](https://github.com/user-attachments/assets/9a5377cf-ba40-4de0-a5df-2398dc9f2230)
+
+
 
