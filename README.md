@@ -502,5 +502,7 @@ Azure Monitor
 
 ![image](https://github.com/user-attachments/assets/9a5377cf-ba40-4de0-a5df-2398dc9f2230)
 
+Azure Monitor
+![image](https://github.com/user-attachments/assets/115a0420-4e05-401f-b265-68710f924340)
 
 
