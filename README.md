@@ -470,3 +470,21 @@ A Calculadora de Preços do Azure é uma ferramenta poderosa para estimar os cus
 Você pode acessar a Calculadora de Preços diretamente [aqui](https://azure.microsoft.com/pt-br/pricing/calculator/). 
 
 
+Portal de Confiança do Serviço
+Saiba como os Microsoft serviços de nuvem protegem seus dados e como você pode gerenciar a segurança e a conformidade de dados de nuvem para sua organização.
+
+https://servicetrust.microsoft.com/
+
+![image](https://github.com/user-attachments/assets/ed072560-d3c8-4eb2-a797-59764b8ca73b)
+
+![image](https://github.com/user-attachments/assets/03c25685-a278-419e-87cb-183c0d8ca235)
+
+
+Bloqueio de delete
+![image](https://github.com/user-attachments/assets/e87ea570-26b9-4db5-b402-7445db56b147)
+
+Microsoft Purview
+![image](https://github.com/user-attachments/assets/cd52a16e-0a6b-4912-85bd-763bf990b3b3)
+
+
+
